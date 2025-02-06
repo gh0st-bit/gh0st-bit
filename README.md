@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I’m passionate about securing the digital world 
 
 ## 🤝 **Let’s Collaborate!**
 - 💬 Ask me about **AI in cybersecurity** or **ethical hacking**.
-- 📫 Reach out: [Email](mailto:27668@students.riphah.edu.pk) | [LinkedIn]([link](https://www.linkedin.com/in/umarwaqar8/)) |
+- 📫 Reach out: [Email](mailto:27668@students.riphah.edu.pk) | [LinkedIn](https://www.linkedin.com/in/umarwaqar8/)) |
 
 
 ⭐ **Fun Fact**: I once trained a model to generate secure passwords—until it started suggesting "password123" 😅
