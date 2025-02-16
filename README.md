@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ghost 
+# 👋 Hi, I’m Umar 
 ### **Security Enthusiast 🔒 | AI Explorer 🤖 | Open-Source Contributor 🌍**
 
 Welcome to my GitHub profile! I’m passionate about securing the digital world while leveraging AI/ML to solve complex challenges. Whether it’s building robust security tools or experimenting with neural networks, I thrive at the intersection of cybersecurity and intelligent systems.
